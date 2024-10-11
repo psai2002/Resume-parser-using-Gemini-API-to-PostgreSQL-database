@@ -13,7 +13,7 @@ Copy the API key. Add the API key that you have coppied to your system environme
 - In *Ubuntu* open ``$ ~/ .bashrc`` and add a line ``export "GEMINI_API_KEY=<your_api_key>"``.  
 After adding your API key save and exit the file.
 
-**Import python modules:**  
+**Import modules:**  
 pandas  
 requests  
 google-generativeai  
