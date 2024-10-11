@@ -7,6 +7,7 @@ Fetches the data from PostgreSQL and displays the data.
 
 - The code is written in python.
 - Install [python](https://www.python.org) in your system.
+- Install [PostgreSQL](https://www.postgresql.org/) in your system.
 
 Go to [Gemini API](https://ai.google.dev/) website. Login with your account and create API key.  
 Copy the API key. Add the API key that you have coppied to your system environment variables:  
