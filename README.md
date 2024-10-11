@@ -21,3 +21,6 @@ pypdf
 json  
 os
 
+After setting up all the things open terminal.  
+Go to the location of your file by entering: ``cd 'path/to/your/file_name.py'``.  
+Run the code by typing: ``python3 file_name.py``.
